@@ -1,0 +1,3 @@
+2020-03-05 10:47:47.466 +03:00 [INF] start integration property mr-group
+2020-03-05 10:48:21.365 +03:00 [INF] successfully auth in
+2020-03-05 10:54:37.720 +03:00 [INF] Finished updating: 1780 properties

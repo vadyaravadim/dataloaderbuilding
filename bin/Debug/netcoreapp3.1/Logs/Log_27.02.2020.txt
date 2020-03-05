@@ -1,0 +1,2 @@
+2020-02-27 13:22:21.900 +03:00 [INF] start integration property mr-group
+2020-02-27 13:22:24.748 +03:00 [INF] successfully auth in
